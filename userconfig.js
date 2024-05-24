@@ -16,7 +16,7 @@ const default_config = {
   tabs: [
     {
       name: "Mine",
-      background_url: "src/img/banners/cbg-9.gif",
+      background_url: "src/img/banners/bg-1.gif",
       categories: [
         {
           name: "bookmarks",
@@ -103,7 +103,7 @@ const default_config = {
     },
     {
       name: "Flight",
-      background_url: "src/img/banners/cbg-8.gif",
+      background_url: "src/img/banners/bg-2.gif",
       categories: [
         {
           name: "Weather",
@@ -172,7 +172,7 @@ const default_config = {
     },
     {
       name: "School",
-      background_url: "src/img/banners/cbg-10.gif",
+      background_url: "src/img/banners/bg-3.gif",
       categories: [
         {
           name: "ERAU",
