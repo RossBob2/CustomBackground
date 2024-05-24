@@ -46,7 +46,7 @@ const default_config = {
             },
             {
               name: "DJR100",
-              url: "hhttps://mail.google.com/mail/u/2/",
+              url: "https://mail.google.com/mail/u/2/",
               icon: "number-2",
               icon_color: "#fab387",
             },
