@@ -122,7 +122,7 @@ const default_config = {
             },
             {
               name: "AVGov",
-              url: "https://wakatime.com/dashboard",
+              url: "https://aviationweather.gov/gfa/#obs",
               icon: "bolt",
               icon_color: "#f38ba8",
             },
@@ -133,7 +133,7 @@ const default_config = {
           links: [
             {
               name: "Foreflight",
-              url: "https://www.kaggle.com/volodymyrpivoshenko",
+              url: "https://plan.foreflight.com/map",
               icon: "map",
               icon_color: "#a6e3a1",
             },
@@ -162,7 +162,7 @@ const default_config = {
             },
             {
               name: "POH",
-              url: "https://eng.uber.com/category/articles",
+              url: "https://encoreflight.com/wp-content/uploads/2017/06/Pilot-Operating-Handbook-Diamond-DA20.pdf",
               icon: "file-text",
               icon_color: "#f38ba8",
             },
