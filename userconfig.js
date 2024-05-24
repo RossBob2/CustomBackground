@@ -11,26 +11,26 @@ const default_config = {
     iconColor: "#f38ba8",
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "hhttps://mail.google.com/mail/u/1/#inbox",
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "Personal",
+      name: "Mine",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "TTTVR",
+              url: "https://soundcloud.com/the-pug-master-634940023/sets/to-the-top-vr",
+              icon: "brand-soundcloud",
               icon_color: "#a6e3a1",
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net/sixty",
-              icon: "binary-tree",
+              name: "Thing",
+              url: "https://europixhd.site/",
+              icon: "player-play",
               icon_color: "#fab387",
             },
           ],
@@ -41,7 +41,7 @@ const default_config = {
             {
               name: "ForeFlight",
               url: "https://plan.foreflight.com/map",
-              icon: "IconPlane",
+              icon: "plane",
               icon_color: "#a6e3a1",
             },
             {
@@ -102,109 +102,97 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "Flight",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
-          name: "resources",
+          name: "Weather",
           links: [
             {
-              name: "github",
-              url: "https://github.com",
-              icon: "brand-github",
+              name: "WXBrief",
+              url: "https://www.1800wxbrief.com/Website/#!/",
+              icon: "notebook",
               icon_color: "#a6e3a1",
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "cloud",
+              url: "https://www.anyawos.com/KOZW",
+              icon: "cloud",
               icon_color: "#fab387",
             },
             {
-              name: "wakatime",
+              name: "AVGov",
               url: "https://wakatime.com/dashboard",
-              icon: "24-hours",
+              icon: "bolt",
               icon_color: "#f38ba8",
             },
           ],
         },
         {
-          name: "challenges",
+          name: "Maps",
           links: [
             {
-              name: "kaggle",
+              name: "Foreflight",
               url: "https://www.kaggle.com/volodymyrpivoshenko",
-              icon: "brain",
+              icon: "map",
               icon_color: "#a6e3a1",
             },
             {
-              name: "leetcode",
-              url: "https://leetcode.com",
-              icon: "code-plus",
+              name: "SkyVector",
+              url: "https://skyvector.com/",
+              icon: "plane-inflight",
               icon_color: "#fab387",
-            },
-            {
-              name: "stackoverflow",
-              url: "https://stackoverflow.com",
-              icon: "brand-stackoverflow",
-              icon_color: "#f38ba8",
             },
           ],
         },
         {
-          name: "blogs",
+          name: "Tools",
           links: [
             {
-              name: "dou",
-              url: "https://dou.ua",
-              icon: "brand-prisma",
+              name: "E6B",
+              url: "https://e6bx.com/e6b/",
+              icon: "calculator",
               icon_color: "#a6e3a1",
             },
             {
-              name: "hackernews",
-              url: "https://news.ycombinator.com",
-              icon: "brand-redhat",
+              name: "TAS",
+              url: "https://e6bx.com/tas/",
+              icon: "wind",
               icon_color: "#fab387",
             },
             {
-              name: "uber research",
+              name: "POH",
               url: "https://eng.uber.com/category/articles",
-              icon: "brand-uber",
+              icon: "file-text",
               icon_color: "#f38ba8",
-            },
-            {
-              name: "google research",
-              url: "https://blog.research.google",
-              icon: "hexagon-letter-g",
-              icon_color: "#89b4fa",
             },
           ],
         },
       ],
     },
     {
-      name: "chi ll",
+      name: "School",
       background_url: "src/img/banners/cbg-10.gif",
       categories: [
         {
-          name: "social medias",
+          name: "ERAU",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
+              name: "ERNIE",
+              url: "https://ernie.erau.edu/",
+              icon: "category",
               icon_color: "#a6e3a1",
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              name: "Mail",
+              url: "https://outlook.office.com/mail/",
+              icon: "mail",
               icon_color: "#fab387",
             },
             {
-              name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
-              icon: "brand-reddit",
+              name: "TODO",
+              url: "https://eracsprd.ps.erau.edu/",
+              icon: "checkbox",
               icon_color: "#f38ba8",
             },
           ],
@@ -216,7 +204,7 @@ const default_config = {
               name: "GG",
               url: "https://ggapp.io/pivoshenko",
               icon: "device-gamepad",
-              icon_color: "#a6e3a1",
+              icon_color: "#a6e3a1", 
             },
             {
               name: "steam",
