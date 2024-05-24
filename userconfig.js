@@ -39,9 +39,9 @@ const default_config = {
           name: "Flight",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
-              icon: "brand-gmail",
+              name: "ForeFlight",
+              url: "https://plan.foreflight.com/map",
+              icon: "IconPlane",
               icon_color: "#a6e3a1",
             },
             {
