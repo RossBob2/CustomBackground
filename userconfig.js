@@ -36,7 +36,7 @@ const default_config = {
           ],
         },
         {
-          name: "Flight",
+          name: "Fl ight",
           links: [
             {
               name: "ForeFlight",
