@@ -69,7 +69,7 @@ const default_config = {
             },
             {
               name: "SCP",
-              url: "https://mil.in.ua",
+              url: "https://scp-wiki.wikidot.com/",
               icon: "circle-triangle",
               icon_color: "#fab387",
             },
