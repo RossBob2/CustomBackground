@@ -146,7 +146,7 @@ const default_config = {
               name: "E6B",
               url: "https://e6bx.com/e6b/",
               icon: "calculator",
-              icon_color: "#f38ba8",
+              icon_color: "#89b4fa",
             },
           ],
         },
