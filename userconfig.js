@@ -125,9 +125,9 @@ const default_config = {
           name: "Tools",
           links: [
             {
-              name: "E6B",
-              url: "https://e6bx.com/e6b/",
-              icon: "calculator",
+              name: "FSP",
+              url: "https://app.flightschedulepro.com/App/Dashboard/",
+              icon: "plane-tilt",
               icon_color: "#a6e3a1",
             },
             {
@@ -140,6 +140,12 @@ const default_config = {
               name: "POH",
               url: "https://encoreflight.com/wp-content/uploads/2017/06/Pilot-Operating-Handbook-Diamond-DA20.pdf",
               icon: "file-text",
+              icon_color: "#f38ba8",
+            },
+            {
+              name: "E6B",
+              url: "https://e6bx.com/e6b/",
+              icon: "calculator",
               icon_color: "#f38ba8",
             },
           ],
