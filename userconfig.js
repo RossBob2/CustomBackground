@@ -153,7 +153,7 @@ const default_config = {
       ],
     },
     {
-      name: "School",
+      name: "Work",
       background_url: "src/img/banners/bg-3.gif",
       categories: [
         {
@@ -180,30 +180,30 @@ const default_config = {
           ],
         },
         {
-          name: "games",
+          name: "Work",
           links: [
             {
-              name: "GG",
-              url: "https://ggapp.io/pivoshenko",
-              icon: "device-gamepad",
+              name: "PSANET",
+              url: "https://psanet.pentastaraviation.com/default.aspx",
+              icon: "users",
               icon_color: "#a6e3a1", 
             },
             {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
+              name: "365",
+              url: "https://www.microsoft365.com/?acctsw=1&auth=2",
+              icon: "brand-office",
               icon_color: "#fab387",
             },
             {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "Mail",
+              url: "https://outlook.office.com/mail/?actSwt=true",
+              icon: "mail",
               icon_color: "#f38ba8",
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
+              name: "Paylocity",
+              url: "https://login.paylocity.com/Escher/Escher_WebUI/employeeselfservice/home/index?area=employees&view=EmployeePortal&HelpPageQueryString=View",
+              icon: "cash",
               icon_color: "#89b4fa",
             },
           ],
