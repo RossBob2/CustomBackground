@@ -3,7 +3,7 @@ let saved_config = JSON.parse(localStorage.getItem("CONFIG"));
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Detroit",
+    location: "Daytona Beach",
     scale: "C",
   },
   clock: {
@@ -176,6 +176,12 @@ const default_config = {
               url: "https://eracsprd.ps.erau.edu/",
               icon: "checkbox",
               icon_color: "#f38ba8",
+            },
+            {
+              name: "Canvas",
+              url: "https://erau.instructure.com/",
+              icon: "calendar-due",
+              icon_color: "#89b4fa",
             },
           ],
         },
