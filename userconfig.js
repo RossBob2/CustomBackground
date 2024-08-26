@@ -183,6 +183,12 @@ const default_config = {
               icon: "calendar-due",
               icon_color: "#89b4fa",
             },
+            {
+              name: "ETA",
+              url: "https://eta.erau.edu/tseta/servlet/content?module=home&filterForm=1&page=homepg&content_type=mysched&showImg=&maxdayshow=30",
+              icon: "plane-tilt",
+              icon_color: "#cba6f7",
+            },
           ],
         },
         {
