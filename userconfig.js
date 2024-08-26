@@ -185,7 +185,7 @@ const default_config = {
             },
             {
               name: "ETA",
-              url: "https://eta.erau.edu/tseta/servlet/content?module=home&filterForm=1&page=homepg&content_type=mysched&showImg=&maxdayshow=30",
+              url: "https://eta.erau.edu/etasso",
               icon: "plane-tilt",
               icon_color: "#cba6f7",
             },
